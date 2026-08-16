@@ -78,7 +78,9 @@ Claude should now be able to detect and communicate with the Power BI MCP server
 
 # 🚀 You're Ready!
 
-You can now use **Claude Desktop together with Power BI** to interact with your Power BI environment through MCP. Open your .pbix file and it's ready to go!
+You can now use **Claude Desktop together with Power BI** to interact with your Power BI environment through MCP. 
+
+**Open your .pbix file and it's ready to go!**
 
 The basic architecture looks like this:
 
