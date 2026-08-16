@@ -55,7 +55,7 @@ Go to:
 
 Open the Claude Desktop configuration file.
 
-And paste the the code from this repo/Claude Desktop configuration.
+And paste the code you can find in this repository 👆: claude_desktop_config.json
 
 Change existing path with your mcp path.
 
