@@ -10,7 +10,7 @@ Connect **Power BI Desktop** with **Claude Desktop** using the **Power BI MCP ex
 You need **3 free applications**:
 
 1. **Power BI Desktop**
-2. **Visual Studio Code**
+2. **Visual Studio Code (For MCP)** 
 3. **Claude Desktop**
 
 ### 📥 Download
