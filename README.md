@@ -2,6 +2,9 @@
 
 Connect **Power BI Desktop** with **Claude Desktop** using the **Power BI MCP extension** in VS Code, allowing Claude to interact with your Power BI environment.
 
+<img width="1364" height="374" alt="image" src="https://github.com/user-attachments/assets/3196b17f-cfbf-4d5a-b0be-14b5c91cf9e1" />
+
+
 ## 🛠️ Requirements
 
 You need **3 free applications**:
