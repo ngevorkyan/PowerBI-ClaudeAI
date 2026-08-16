@@ -55,7 +55,7 @@ Go to:
 
 Open the Claude Desktop configuration file.
 
-And paste the code you can find in this repository 👆: claude_desktop_config.json
+And replace it with this code : * [Claude Desktop Config](https://github.com/ngevorkyan/PowerBI-ClaudeAI/blob/main/claude_desktop_config.json)
 
 Change existing path with your mcp path.
 
