@@ -36,20 +36,10 @@ Once the extension is installed and configured, you **don't need to use VS Code 
 Navigate to your VS Code extensions folder:
 
 ```text
-C:\Users\<YOUR_USERNAME>\.vscode\extensions
+"C:\\Users\\...\\.vscode\\extensions\\analysis-services.powerbi-modeling-mcp-0.4.0-win32-arm64\\server\\**powerbi-modeling-mcp.exe**",
 ```
-
-Find the folder belonging to the **Power BI MCP** extension.
-
-Inside the extension folder, locate the **server** directory.
 
 Copy the **full path to this directory**.
-
-For example:
-
-```text
-C:\Users\YourName\.vscode\extensions\...\server
-```
 
 This directory contains the MCP server that Claude needs to access.
 
