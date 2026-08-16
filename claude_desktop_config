@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "powerbi-mcp": {
+      "command": "C:\\Users\\ngevorkyan\\.vscode\\extensions\\analysis-services.powerbi-modeling-mcp-0.4.0-win32-x64\\server\\powerbi-modeling-mcp.exe", #paste your mcp adress here
+      "args": [
+        "--start"
+      ],
+      "env": {}
+    }
+  },
+  "preferences": {
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": true,
+    "sidebarMode": "chat",
+    "coworkWebSearchEnabled": true,
+    "epitaxyPrefs": {
+      "starred-local-code-sessions": [],
+      "starred-cowork-spaces": [],
+      "starred-session-groups": [],
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "customGroupAssignments": {},
+        "customGroupOrder": {}
+      }
+    }
+  }
+}
